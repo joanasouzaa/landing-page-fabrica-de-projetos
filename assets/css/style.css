@@ -1,0 +1,7 @@
+:root{
+    --color-header-nav: #9acbd0;
+}
+
+header{
+    background-color: var(--color-header-nav);
+}
